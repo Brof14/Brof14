@@ -1,38 +1,33 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Brof14/Brof14/main/assets/profile-banner.svg" alt="Arseniy — Building useful products" width="100%" />
+  <img src="https://raw.githubusercontent.com/Brof14/Brof14/main/assets/profile-banner.svg" alt="Arseniy — software projects and product development" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://parahin.space">Portfolio</a>
+  <a href="https://parahin.space">Personal website</a>
   &nbsp;·&nbsp;
-  <a href="https://t.me/ByMeVPNbot">ByMeVPN</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Brof14?tab=repositories">Repositories</a>
+  <a href="https://github.com/Brof14?tab=repositories">Selected repositories</a>
 </div>
 
 ## Hi, I'm Arseniy
 
-I build software and small products, from backend services and Telegram bots to mobile apps. Right now, most of my work is around the **ByMe** product ecosystem.
+I build software products and learn by shipping working projects. My current focus is the **ByMe** ecosystem: mobile and desktop VPN clients, backend services, and Telegram bots.
 
-I care about shipping useful things, keeping systems reliable, and improving them through real feedback. I work mainly with **Python**, and I’m growing my skills in **Go**, databases, and distributed systems.
+I work with **Python**, **Kotlin**, **TypeScript/JavaScript**, and **Rust**, and use tools including **PostgreSQL**, **Docker**, and **GitHub Actions**. I care about clear documentation, honest project status, and making systems safer and more reliable.
 
-## Selected work
+## Selected projects
 
-| Project | What it is |
+| Project | Description |
 | --- | --- |
-| [ByMeVPN app](https://github.com/Brof14/ByMeVPN-app) | Android client for the ByMeVPN service |
-| [ByMeVideo](https://github.com/Brof14/ByMeVideo) | Telegram bot project for media workflows |
-| [ByMe site](https://github.com/Brof14/ByMe-site) | Website for the ByMe ecosystem |
-| [Pin&Pan](https://github.com/Brof14/Pin-Pan-gotod) | Cooperative 2D game prototype built with Godot |
+| [ByMeVPN for Android](https://github.com/Brof14/ByMeVPN-app) | Android client in Kotlin and Jetpack Compose; active development |
+| [ByMeVPN for Windows](https://github.com/Brof14/ByMeVPN-app-windows) | Tauri and Rust desktop client; VPN runtime integration is in progress |
+| [ByMeAudio Bot](https://github.com/Brof14/ByMeAudio_bot) | Telegram bot for local audio transcription with Faster-Whisper |
+| [ByMeSaved](https://github.com/Brof14/ByMeSaved) | Telegram knowledge manager with semantic search and Markdown export |
+| [ByMeVideo](https://github.com/Brof14/ByMeVideo) | Telegram media workflow using yt-dlp, FFmpeg, Redis, and PostgreSQL |
+| [ByMeVPN site](https://github.com/Brof14/ByMeVPN-site) | Static product website |
 
-## Focus
+## Currently learning
 
-**Building:** ByMe products · backend services · Telegram bots  
-**Learning:** Go · system design · product engineering  
-**Tools:** Python · PostgreSQL · Docker · Kotlin · Godot
+CS50x · software architecture · backend engineering · product development
 
 ---
-
-<div align="center">
-  <sub>Turning ideas into products, one iteration at a time.</sub>
-</div>
+<div align="center"><sub>Building, documenting, and improving one iteration at a time.</sub></div>
